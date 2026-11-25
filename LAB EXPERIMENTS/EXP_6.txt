@@ -1,0 +1,14 @@
+Python 3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+=========================================================================== RESTART: C:/AI/LAB EXP/EXP_6.1.txt ==========================================================================
+Traceback (most recent call last):
+  File "C:/AI/LAB EXP/EXP_6.1.txt", line 2, in <module>
+    my_list.add(1)
+AttributeError: 'list' object has no attribute 'add'
+>>> 
+=========================================================================== RESTART: C:/AI/LAB EXP/EXP_6.1.txt ==========================================================================
+List after adding an item using append method: [1]
+List after appending an item using append method: [1, 2]
+List after extending using extend method: [1, 2, 3, 4, 5]
+List after removing an item using remove method: [1, 2, 4, 5]
